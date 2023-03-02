@@ -1,2 +1,1 @@
-- Hi, I’m Toby McGuire, Im interested in trying out different coding projects to try and do cool stuff while learning different aspects of the process of coding and turning ideas into reality
-- I am studying at The Ohio State University for Computer Science and Engineering, and am in Underwater Robotics, Hyperloop, Game Design, and Running clubs.
+Hi, I’m Toby McGuire and I'm a student at The Ohio State University studying Computer Science and Engineering with a specialization in AI.
